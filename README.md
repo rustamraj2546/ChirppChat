@@ -3,5 +3,8 @@
 - Install all dependencies
 `npm install`
 
-- to run project 
+- to run backend project 
 `npm start`
+
+- to run frontend
+`npm run dev`
